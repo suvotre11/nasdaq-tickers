@@ -1,4 +1,4 @@
-Symbol,Name,Last Sale,Net Change,% Change,Market Cap,Country,IPO Year,Volume,Sector,Industry
+Symbol,Name,Last_Sale,Net_Change,%_Change,Market_Cap,Country,IPO_Year,Volume,Sector,Industry
 AACG,ATA Creativity Global American Depositary Shares,$1.44,-0.01,-0.69%,45182765.00,China,2008,9970,Consumer Discretionary,Service to the Health Industry
 AACI,Armada Acquisition Corp. I Common Stock,$10.06,0.00,0.00%,208337570.00,United States,2021,11675,Industrials,Consumer Electronics/Appliances
 AACIW,Armada Acquisition Corp. I Warrant,$0.0301,-0.0006,-1.954%,0.00,United States,2021,25333,Industrials,Consumer Electronics/Appliances
